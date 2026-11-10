@@ -1,0 +1,93 @@
+{
+  "item": {
+    "id": "com.awu.watch.petbomber",
+    "restype": "quick_app",
+    "name": "萌宠泡泡堂",
+    "description": "放一颗泡泡，躲好再出发！带着萌宠拆箱、找钥匙，闯过六个不同的世界。\n\n六章48关冒险，还有电脑对战、12项技巧挑战与随机远征。支持滑动、按键两种操作，可在设置中切换。\n\n应用需购买兑换码激活，电脑对战为本地AI对手。",
+    "preview": [
+      "media/preview-01.png",
+      "media/preview-02.png",
+      "media/preview-03.png",
+      "media/preview-04.png",
+      "media/preview-05.png",
+      "media/preview-06.png",
+      "media/preview-07.png",
+      "media/preview-08.png",
+      "media/preview-09.png",
+      "media/preview-10.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.jpg",
+    "author": [
+      {
+        "name": "A_WU",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "购买兑换码",
+      "url": "https://afdian.com/item/59aa2580d41611f182355254001e7c00",
+      "icon": "shopping-cart"
+    },
+    {
+      "title": "萌宠泡泡堂视频介绍",
+      "url": "https://www.bilibili.com/video/BV1qmxe6bEY4/",
+      "icon": "link"
+    },
+    {
+      "title": "萌宠泡泡堂交流群",
+      "url": "https://qm.qq.com/q/nL1rGRAXi8",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/PetBomber-1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/PetBomber-1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/PetBomber-1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/PetBomber-1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/PetBomber-1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/PetBomber-1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/PetBomber-1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/PetBomber-1.0.0.rpk",
+      "versionCode": 100
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/PetBomber-1.0.0.rpk",
+      "versionCode": 100
+    }
+  },
+  "ext": {}
+}
